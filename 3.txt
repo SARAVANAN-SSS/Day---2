@@ -1,0 +1,42 @@
+ 
+              "type of Data's"
+ 
+ a) console.log(typeof(1));
+          
+		  output: number
+		  		
+ b) console.log(typeof(1.1));
+ 
+          output: number
+		  	  
+ c) console.log(typeof('1.1'));
+ 
+          output: string
+		  
+ d) console.log(typeof(true));
+ 
+          output: boolean
+		  	  
+ e) console.log(typeof(null));
+
+          output: object	  
+
+ f) console.log(typeof(undefined));
+
+          output: undefined
+		  
+ g) console.log(typeof([]));
+
+          output: object
+		  
+ h) console.log(typeof({}));
+ 
+          output: object
+		  
+ i) console.log(typeof(NaN));
+
+          output: number
+		  
+
+
+		  
